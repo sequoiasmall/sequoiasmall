@@ -216,8 +216,6 @@
 		<li>Korean American Community Foundation Gala 2020: Trainblazer Award</li>
 	</ul>
 </details>
-</div>
-</details>
 <h2> Popular Songs </h2>
 <details>
 <iframe src="https://open.spotify.com/embed/track/1XyzcGhmO7iUamSS94XfqY" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
