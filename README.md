@@ -50,7 +50,7 @@
               <div class="callout">
               <h3>BTS</h3>
   <p> The world's most famous boygroup Bangtan Sonyeondan, better known as BTS, consists of 7 members. </p>
-    <img src="https://c.tenor.com/5lSouLlhNNsAAAAC/bts-life-goes-on-bts.gif" width="1690" height="1600" alt="BTS">
+    <img src="https://c.tenor.com/5lSouLlhNNsAAAAC/bts-life-goes-on-bts.gif" width="690" height="600" alt="BTS">
           <div class="grid-x grid-padding-x">
             <div class="large-6 medium-6 cell">
               <div class="callout">
@@ -58,7 +58,7 @@
     <ul>
     <img src="https://pbs.twimg.com/media/E6esV-qVgAQd5_z.jpg" width="450" height="480" align= center alt="RM"><li>RM</li> 
     
-    <img src="http://images6.fanpop.com/image/photos/44000000/BTS-Permission-To-Dance-Photo-Sketch-bts-44012496-599-900.jpg" width="450" height="480" align= center alt="Jin"><li>Jin</li>
+    <img src="http://images6.fanpop.com/image/photos/44000000/BTS-Permission-To-Dance-Photo-Sketch-bts-44012496-599-900.jpg" width="150" height="180" align= center alt="Jin"><li>Jin</li>
     
     <img src="https://pbs.twimg.com/media/E6exnegVkAc03md.jpg" width="450" height="480" align= center alt="Suga"><li>Suga</li>
     
