@@ -5,6 +5,34 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kpop Wiki</title>
+      <style>
+title {font-family: "Helvetica Neue";}
+  body {
+    background-color: white;
+    color:#240d3a ;
+    
+  }
+  h1{font-size: 3000em;
+    align: center;
+
+  }
+  h2{font-size: 2000em;
+    color:#491974 ;
+    margin-left: inherit;
+  }
+  h3 {font-size: 300em;
+    color:#883eb4;
+    margin-left: inherit;
+
+  }
+  p {font-size: 1800em;
+    color:#371456 ;
+    margin-left: inherit;
+
+  }
+  img{ margin-left: inherit;
+   }
+</style>
     <link rel="stylesheet" href="css/foundation.css">
     <link rel="stylesheet" href="css/app.css">
   </head>
@@ -50,25 +78,25 @@
               <div class="callout">
               <h3>BTS</h3>
   <p> The world's most famous boygroup Bangtan Sonyeondan, better known as BTS, consists of 7 members. </p>
-    <img src="https://c.tenor.com/5lSouLlhNNsAAAAC/bts-life-goes-on-bts.gif" width="690" height="600" alt="BTS">
+    <img src="https://c.tenor.com/5lSouLlhNNsAAAAC/bts-life-goes-on-bts.gif" width="490" height="400" alt="BTS">
           <div class="grid-x grid-padding-x">
             <div class="large-6 medium-6 cell">
               <div class="callout">
         <h4>Members</h4>
     <ul>
-    <img src="https://pbs.twimg.com/media/E6esV-qVgAQd5_z.jpg" width="450" height="480" align= center alt="RM"><li>RM</li> 
+    <img src="https://pbs.twimg.com/media/E6esV-qVgAQd5_z.jpg" width="145" height="180" align= center alt="RM"><li>RM</li> 
     
-    <img src="http://images6.fanpop.com/image/photos/44000000/BTS-Permission-To-Dance-Photo-Sketch-bts-44012496-599-900.jpg" width="150" height="180" align= center alt="Jin"><li>Jin</li>
+    <img src="http://images6.fanpop.com/image/photos/44000000/BTS-Permission-To-Dance-Photo-Sketch-bts-44012496-599-900.jpg" width="145" height="180" align= center alt="Jin"><li>Jin</li>
     
-    <img src="https://pbs.twimg.com/media/E6exnegVkAc03md.jpg" width="450" height="480" align= center alt="Suga"><li>Suga</li>
+    <img src="https://pbs.twimg.com/media/E6exnegVkAc03md.jpg" width="145" height="180" align= center alt="Suga"><li>Suga</li>
     
-    <img src="https://pbs.twimg.com/media/E6e0DIUVEAELAsV.jpg:large" width="450" height="480" align= center alt="J-Hope"><li>J-Hope</li>
+    <img src="https://pbs.twimg.com/media/E6e0DIUVEAELAsV.jpg:large" width="145" height="170" align= center alt="J-Hope"><li>J-Hope</li>
     
-    <img src="https://kenyabtsarmy.files.wordpress.com/2021/08/7929edc1c3dda2313c070bddf1ebd517.jpg?w=575" width="450" height="480" align= center alt="Jimin"><li>Jimin</li> 
+    <img src="https://kenyabtsarmy.files.wordpress.com/2021/08/7929edc1c3dda2313c070bddf1ebd517.jpg?w=575" width="145" height="180" align= center alt="Jimin"><li>Jimin</li> 
 
-    <img src="https://pbs.twimg.com/media/E6e4awGVoAIMNpC.jpg" width="450" height="480" align= center alt="V"><li>V</li>
+    <img src="https://pbs.twimg.com/media/E6e4awGVoAIMNpC.jpg" width="145" height="170" align= center alt="V"><li>V</li>
     
-    <img src="https://pbs.twimg.com/media/E6e8KHeXMAI-058.jpg:large" width="450" height="480" align= center alt="Jungkook"><li>Jungkook</li> 
+    <img src="https://pbs.twimg.com/media/E6e8KHeXMAI-058.jpg:large" width="145" height="180" align= center alt="Jungkook"><li>Jungkook</li> 
   </ul> 
               </div>
             </div>
@@ -129,21 +157,21 @@
               <div class="callout">
      <h3>Tomorrow x Together</h3>
     <p>Boy group Tomorrow x Together, also known as TXT, consists of 5 members who are deemed as Kpop's 4th generation "It Boys".</p>         
-    <img src="https://c.tenor.com/es0-yZhKjeQAAAAd/txt.gif" width="1690" height="1600" alt="TomorrowxTogether">
+    <img src="https://c.tenor.com/es0-yZhKjeQAAAAd/txt.gif" width="490" height="400" alt="TomorrowxTogether">
           <div class="grid-x grid-padding-x">
             <div class="large-6 medium-6 cell">
               <div class="callout">
     <h4>Members</h4>
   <ul>
-    <img src="https://assets.teenvogue.com/photos/5f15aa14493c0130c7d9bc85/2:3/w_2666,h_3999,c_limit/tout.jpg" width="450" height="480" align= center alt="Soobin"><li>Soobin </li> 
+    <img src="https://assets.teenvogue.com/photos/5f15aa14493c0130c7d9bc85/2:3/w_2666,h_3999,c_limit/tout.jpg" width="145" height="180" align= center alt="Soobin"><li>Soobin </li> 
     
-    <img src="https://i.pinimg.com/originals/8c/4e/58/8c4e5882d67b86ca05dd08e642360b1e.jpg" width="450" height="480" align= center alt="Yeonjun"><li>Yeonjun</li>
+    <img src="https://i.pinimg.com/originals/8c/4e/58/8c4e5882d67b86ca05dd08e642360b1e.jpg" width="145" height="180" align= center alt="Yeonjun"><li>Yeonjun</li>
     
-    <img src="https://i.pinimg.com/736x/d4/22/8b/d4228bdff6af04353f07df23bd0a71fd.jpg" width="450" height="480" align= center alt="Beomgyu"><li>Beomgyu</li>
+    <img src="https://i.pinimg.com/736x/d4/22/8b/d4228bdff6af04353f07df23bd0a71fd.jpg" width="145" height="180" align= center alt="Beomgyu"><li>Beomgyu</li>
     
-    <img src="https://pbs.twimg.com/media/Enp-1MXXMAEw0Nv.jpg" width="450" height="480" align= center alt="Taehyun"><li>Taehyun</li>
+    <img src="https://pbs.twimg.com/media/Enp-1MXXMAEw0Nv.jpg" width="145" height="170" align= center alt="Taehyun"><li>Taehyun</li>
     
-     <img src="http://pm1.narvii.com/7284/0090c40c68d962150b565d16ad66320ebb2d62e5r1-683-1024v2_uhq.jpg" width="450" height="480" align= center alt="Huening Kai"><li>Huening Kai</li> 
+     <img src="http://pm1.narvii.com/7284/0090c40c68d962150b565d16ad66320ebb2d62e5r1-683-1024v2_uhq.jpg" width="145" height="180" align= center alt="Huening Kai"><li>Huening Kai</li> 
   </ul> 
               </div>
             </div>
@@ -206,21 +234,21 @@
               <div class="callout">
      <h3>ITZY</h3>
   <p>ITZY, known for their powerful performances, is a 5 member girlgroup that debuted in 2019 from top company JYP </p>
-    <img src="https://thumbs.gfycat.com/DelightfulSoggyFishingcat-size_restricted.gif" width="1690" height="1600" alt="ITZY">
+    <img src="https://thumbs.gfycat.com/DelightfulSoggyFishingcat-size_restricted.gif" width="490" height="400" alt="ITZY">
             <div class="grid-x grid-padding-x">
             <div class="large-6 medium-6 cell">
               <div class="callout">
       <h4>Members</h4>
   <ul>
-    <img src="https://static.wikia.nocookie.net/itzy/images/f/fc/ITZY_IT%27z_ICY_Yeji_Promotional_Picture_%281%29.jpg/revision/latest/scale-to-width-down/250?cb=20190731232251" width="450" height="800" align= center alt="Yeji"><li>Yeji</li> 
+    <img src="https://static.wikia.nocookie.net/itzy/images/f/fc/ITZY_IT%27z_ICY_Yeji_Promotional_Picture_%281%29.jpg/revision/latest/scale-to-width-down/250?cb=20190731232251" width="145" height="180" align= center alt="Yeji"><li>Yeji</li> 
     
-    <img src="https://data.whicdn.com/images/332795393/original.jpg" width="450" height="480" align= center alt="Lia"><li>Lia</li>
+    <img src="https://data.whicdn.com/images/332795393/original.jpg" width="145" height="180" align= center alt="Lia"><li>Lia</li>
     
-    <img src="https://i.pinimg.com/originals/81/d6/f8/81d6f8d15e7dab9ed67b714faf6d1a72.jpg" width="450" height="480" align= center alt="Ryujin"><li>Ryujin</li>
+    <img src="https://i.pinimg.com/originals/81/d6/f8/81d6f8d15e7dab9ed67b714faf6d1a72.jpg" width="145" height="180" align= center alt="Ryujin"><li>Ryujin</li>
     
-    <img src="https://pm1.narvii.com/7257/a1d3f6b059cfda22e1cf1d5c2ecd28f8bcabdccar1-1080-1349v2_hq.jpg" width="450" height="480" align= center alt="Chaeryeong"><li>Chaeryeong</li>
+    <img src="https://pm1.narvii.com/7257/a1d3f6b059cfda22e1cf1d5c2ecd28f8bcabdccar1-1080-1349v2_hq.jpg" width="145" height="170" align= center alt="Chaeryeong"><li>Chaeryeong</li>
     
-     <img src="https://static.wikia.nocookie.net/itzy/images/2/2d/ITZY_IT%27z_ICY_Yuna_Promotional_Picture_%281%29.jpg/revision/latest/scale-to-width-down/250?cb=20190731233254" width="450" height="480" align= center alt="Yuna"><li>Yuna</li> 
+     <img src="https://static.wikia.nocookie.net/itzy/images/2/2d/ITZY_IT%27z_ICY_Yuna_Promotional_Picture_%281%29.jpg/revision/latest/scale-to-width-down/250?cb=20190731233254" width="145" height="180" align= center alt="Yuna"><li>Yuna</li> 
   </ul> 
               </div>
             </div>
@@ -317,3 +345,4 @@
     <script src="js/app.js"></script>
   </body>
 </html>
+
