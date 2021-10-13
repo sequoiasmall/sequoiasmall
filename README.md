@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html class="no-js" lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -315,6 +315,5 @@
     <script src="js/vendor/what-input.js"></script>
     <script src="js/vendor/foundation.js"></script>
     <script src="js/app.js"></script>
-  </body>
-</html>
+
 
