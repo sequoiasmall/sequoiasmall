@@ -1,10 +1,38 @@
-
+<!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kpop Wiki</title>
+      <style>
+title {font-family: "Helvetica Neue";}
+  body {
+    background-color: white;
+    color:#240d3a ;
+    
+  }
+  h1{font-size: 3000em;
+    align: center;
+
+  }
+  h2{font-size: 2000em;
+    color:#491974 ;
+    margin-left: inherit;
+  }
+  h3 {font-size: 300em;
+    color:#883eb4;
+    margin-left: inherit;
+
+  }
+  p {font-size: 1800em;
+    color:#371456 ;
+    margin-left: inherit;
+
+  }
+  img{ margin-left: inherit;
+   }
+</style>
     <link rel="stylesheet" href="css/foundation.css">
     <link rel="stylesheet" href="css/app.css">
   </head>
@@ -315,5 +343,6 @@
     <script src="js/vendor/what-input.js"></script>
     <script src="js/vendor/foundation.js"></script>
     <script src="js/app.js"></script>
-
+  </body>
+</html>
 
